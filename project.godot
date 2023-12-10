@@ -198,6 +198,10 @@ dialogue={
  ]
 }
 
+[mono]
+
+project/assembly_name="Mandrake"
+
 [physics]
 
 common/enable_pause_aware_picking=true
